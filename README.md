@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chrisabo
-- 👀 I’m interested in public librraies and open data
+- 👀 I’m interested in public libraries and open data
 - 🌱 I’m currently learning how to be frustrated by R
-- 💞️ I’m looking to collaborate on simple projects that can involve students in the programs at the University of Washington Information School
+- 💞️ I’m looking to collaborate on actionable projects that can involve students in the programs at the University of Washington Information School
 - 📫 How to reach me chrisjow@uw.edu
 
 <!---
